@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "REPORT_GAS=true hardhat test",
+    "setCode": "hardhat run scripts/setMockArbGasInfoCode.ts"
+  },
+  "dependencies": {
+    "@banr1/uniswapx-sdk": "^2.1.0",
+    "@ethersproject/bignumber": "^5.7.0",
+    "solmate": "6.2.0"
+  }
+}
