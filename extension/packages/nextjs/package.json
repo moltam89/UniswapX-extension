@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@banr1/uniswapx-sdk": "^2.1.0",
+    "@ethersproject/bignumber": "^5.7.0",
+    "ethers": "^6.13.4"
+  }
+}
